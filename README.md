@@ -1,7 +1,7 @@
 #### Домашние задания к курсу «Продвинутый JavaScript в браузере»
 ### 12. Web and Service Workers
 
-[![Build](https://ci.appveyor.com/api/projects/status/fl1vwyf00f956659?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-workers-front)
+[![Build](https://ci.appveyor.com/api/projects/status/fl1vwyf00f956659?svg=true)](https://ci.appveyor.com/project/Dimafdr/ahj-workers-front)
 
 Environment: https://npeplov.github.io/ahj-workers-front
 
